@@ -9,11 +9,11 @@ You can use mruby with some mrbgems easily by this script
         mruby-http
         mruby-redis
         mruby-curl
-        mruby-md5
-        mruby-sha1
-        mruby-base64
+        mruby-digest
+        mruby-pack
         mruby-simplehttp
         mruby-httprequest
+        mruby-oauth
         mruby-growthforecast
         mruby-zabbix
         mruby-random
