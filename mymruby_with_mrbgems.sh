@@ -3,7 +3,7 @@ set -e
 git clone git://github.com/mruby/mruby.git
 
 cd mruby/mrbgems/g/
-git clone git://github.com/mattn/mruby-uv.git
+git clone git://github.com/matsumoto-r/mruby-uv.git -b implemented_addrinfo_ai_addr
 git clone git://github.com/mattn/mruby-http.git
 git clone git://github.com/mattn/mruby-json.git
 git clone git://github.com/mattn/mruby-curl.git
